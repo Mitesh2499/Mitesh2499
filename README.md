@@ -60,27 +60,19 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Mitesh's GitHub Stats" src="https://github-readme-stats.Mitesh2499.vercel.app/api?username=Mitesh2499&show_icons=true&hide_border=true" />
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: "#"
+[course]: ""
+[twitter]: ""
+[youtube]: https://www.youtube.com/channel/UC7Pp1LbmwCFjHvRZfJignhg
+[instagram]: https://www.instagram.com/mr._mephisto_
+[linkedin]: https://www.linkedin.com/in/mitesh-masukar-22b248169
+[webdevplaylist]: ""
+[jsplaylist]: ""
+[cssplaylist]: ""
+[reactplaylist]: ""
