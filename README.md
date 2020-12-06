@@ -48,7 +48,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Adobe XD Tutorial - Nature](https://www.youtube.com/watch?v=K1ABcEYuqZU)
 - [Python Django Project | Coding-Community - (Compiler, Instagram, Stack-overflow, YouTube)](https://www.youtube.com/watch?v=Q2XmD8gizsg)
 - [Adobe XD Tutorial - Money Heist](https://www.youtube.com/watch?v=J5JmDaNIfbM)
