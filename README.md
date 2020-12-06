@@ -48,11 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Python Tutorial - Number Guessing Game](https://www.youtube.com/watch?v=I3nE-b8PExE)
 - [Adobe XD Tutorial - Nature](https://www.youtube.com/watch?v=K1ABcEYuqZU)
 - [Python Django Project | Coding-Community - (Compiler, Instagram, Stack-overflow, YouTube)](https://www.youtube.com/watch?v=Q2XmD8gizsg)
 - [Adobe XD Tutorial - Money Heist](https://www.youtube.com/watch?v=J5JmDaNIfbM)
 - [Python Automation : Files Sorter](https://www.youtube.com/watch?v=lAV-kBz_DqQ)
-- [Top 10 Interesting Websites](https://www.youtube.com/watch?v=7R_TUJ8lyhU)
 <!-- YOUTUBE:END -->
 
 ---
