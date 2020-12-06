@@ -1,4 +1,4 @@
-### Hi there, I'm Mitesh [website] 👋
+### Hi there, I'm Mitesh 👋
 
 ## I'm a React Native Developer, React Js developer and Python developer !!
 
@@ -48,6 +48,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Adobe XD Tutorial - Nature](https://www.youtube.com/watch?v=K1ABcEYuqZU)
 - [Python Django Project | Coding-Community - (Compiler, Instagram, Stack-overflow, YouTube)](https://www.youtube.com/watch?v=Q2XmD8gizsg)
 - [Adobe XD Tutorial - Money Heist](https://www.youtube.com/watch?v=J5JmDaNIfbM)
@@ -64,20 +65,21 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### :zap: GitHub Stats
 
-  <img align="left" alt="Mitesh's GitHub Stats" src="https://github-readme-stats.Mitesh2499.vercel.app/api?username=Mitesh2499&show_icons=true&hide_border=true" />
+## [![Mitesh's github stats](https://github-readme-stats.vercel.app/api?username=Mitesh2499&show_icons=true)](https://github.com/Mitesh2499)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitesh2499)](https://github.com/Mitesh2499)
 
 </details>
 
-[website]: "#"
-[course]: ""
-[twitter]: ""
+[website]: "https://github.com/Mitesh2499"
+[course]: "https://github.com/Mitesh2499"
+[twitter]: "https://github.com/Mitesh2499"
 [youtube]: https://www.youtube.com/channel/UC7Pp1LbmwCFjHvRZfJignhg
 [instagram]: https://www.instagram.com/mr._mephisto_
 [linkedin]: https://www.linkedin.com/in/mitesh-masukar-22b248169
-[webdevplaylist]: ""
-[jsplaylist]: ""
-[cssplaylist]: ""
-[reactplaylist]: ""
+[webdevplaylist]: "https://github.com/Mitesh2499"
+[jsplaylist]: "https://github.com/Mitesh2499"
+[cssplaylist]: "https://github.com/Mitesh2499"
+[reactplaylist]: "https://github.com/Mitesh2499"
