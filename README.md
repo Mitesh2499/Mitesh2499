@@ -48,11 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Python Tutorial - QR Code Generator](https://www.youtube.com/watch?v=1ocjiHUKA0A)
 - [Python Tutorial - Number Guessing Game](https://www.youtube.com/watch?v=I3nE-b8PExE)
 - [Adobe XD Tutorial - Nature](https://www.youtube.com/watch?v=K1ABcEYuqZU)
 - [Python Django Project | Coding-Community - (Compiler, Instagram, Stack-overflow, YouTube)](https://www.youtube.com/watch?v=Q2XmD8gizsg)
 - [Adobe XD Tutorial - Money Heist](https://www.youtube.com/watch?v=J5JmDaNIfbM)
-- [Python Tutorial - Automation : Files Sorter](https://www.youtube.com/watch?v=lAV-kBz_DqQ)
 <!-- YOUTUBE:END -->
 
 ---
