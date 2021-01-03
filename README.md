@@ -48,11 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [React js Beginner Tutorial - TO-DO WebAPP](https://www.youtube.com/watch?v=JdyihhYcIwg)
+- [React JS Beginner Tutorial | TO-DO Web APP | Part 2](https://www.youtube.com/watch?v=eL0qpeWnINw)
+- [React JS Beginner Tutorial | TO-DO Web APP | Part 1](https://www.youtube.com/watch?v=JdyihhYcIwg)
 - [Python Tutorial - QR Code Generator](https://www.youtube.com/watch?v=1ocjiHUKA0A)
 - [Python Tutorial - Number Guessing Game](https://www.youtube.com/watch?v=I3nE-b8PExE)
 - [Adobe XD Tutorial - Nature](https://www.youtube.com/watch?v=K1ABcEYuqZU)
-- [Python Django Project | Coding-Community - (Compiler, Instagram, Stack-overflow, YouTube)](https://www.youtube.com/watch?v=Q2XmD8gizsg)
 <!-- YOUTUBE:END -->
 
 ---
