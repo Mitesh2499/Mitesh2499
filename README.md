@@ -48,11 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Weather Web App using React JS and OpenWeather API](https://www.youtube.com/watch?v=m6VB7QzZCh0)
 - [React JS Beginner Tutorial | TO-DO Web APP | Part 2](https://www.youtube.com/watch?v=eL0qpeWnINw)
 - [React JS Beginner Tutorial | TO-DO Web APP | Part 1](https://www.youtube.com/watch?v=JdyihhYcIwg)
 - [Python Tutorial - QR Code Generator](https://www.youtube.com/watch?v=1ocjiHUKA0A)
 - [Python Tutorial - Number Guessing Game](https://www.youtube.com/watch?v=I3nE-b8PExE)
-- [Adobe XD Tutorial - Nature](https://www.youtube.com/watch?v=K1ABcEYuqZU)
 <!-- YOUTUBE:END -->
 
 ---
