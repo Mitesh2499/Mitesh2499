@@ -60,11 +60,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [News website using Flask and news API - working with API : Part 4](http://feedproxy.google.com/~r/MrMephisto/~3/XJCmB_E9SEM/news-website-using-flask-and-news-api_28.html)
-- [News website using Flask and news API - Hello World : Part 3](http://feedproxy.google.com/~r/MrMephisto/~3/DyWqkoLsNtE/news-website-using-flask-and-news-api_22.html)
-- [News website using Flask and news API : Part 1](http://feedproxy.google.com/~r/MrMephisto/~3/_Zi7d7ZfTgM/news-website-using-flask-and-news-api.html)
-- [News website using flask and newsapi - Setup Environment : Part 2](http://feedproxy.google.com/~r/MrMephisto/~3/edx9R2HP-jA/newswebsite-using-flask-and-newsapi.html)
-- [Web Design Challenge](http://feedproxy.google.com/~r/MrMephisto/~3/vxgG6PHHauI/web-design-challenge.html)
+- [News website using Flask and news API - working with API : Part 4](https://mrmephisto07.blogspot.com/2020/05/news-website-using-flask-and-news-api_28.html)
+- [News website using Flask and news API - Hello World : Part 3](https://mrmephisto07.blogspot.com/2020/05/news-website-using-flask-and-news-api_22.html)
+- [News website using Flask and news API : Part 1](https://mrmephisto07.blogspot.com/2020/05/news-website-using-flask-and-news-api.html)
+- [News website using flask and newsapi - Setup Environment : Part 2](https://mrmephisto07.blogspot.com/2020/05/newswebsite-using-flask-and-newsapi.html)
+- [Web Design Challenge](https://mrmephisto07.blogspot.com/2020/04/web-design-challenge.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
